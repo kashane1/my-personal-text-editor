@@ -1,5 +1,5 @@
 {
-  "name": "j.a.t.e.",
+  "name": "my_personal_text_editor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
