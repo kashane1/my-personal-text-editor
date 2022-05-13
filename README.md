@@ -1,6 +1,8 @@
 # My Personal Text Editor (Progressive Web Application)
 
-https://enterherokulink.com
+https://warm-beach-25630.herokuapp.com/
+
+follow the link above for the deployed app hosted on Heroku
 
 ---
 ## Requirements:
