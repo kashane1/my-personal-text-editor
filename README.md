@@ -21,7 +21,8 @@ Started with some inital code to build on top of. Significantly easier than the 
 
 ---
 ## Screenshot:
-(add link to screenshot here)
+The following screenshot shows the text editor after having installed it as a progressive web application:
+![Screenshot](jate_screenshot.jpg)
 
 ---
 ## References:
